@@ -1,0 +1,25 @@
+.header-wrap{
+  background: var(--black);
+  color: white;
+  
+}
+.h-con{
+   justify-content: space-between !important;
+   color: var(--secondary);
+   padding: 1rem 0 !important;
+}
+.header-menu{
+  gap: 2rem;
+  margin-right: 2rem;
+}
+.header-menu>*:hover{
+  cursor: pointer;
+}
+.logo{
+  margin-left: 5rem;
+  transition: all 500ms ease-in;
+  width: 150px;
+}
+.logo:hover{
+  transform: scale(1.5);
+}
