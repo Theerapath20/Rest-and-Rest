@@ -44,7 +44,7 @@ function Header_content() {
               </span>
               <span className="secondaryText" >Happy Customer</span>
             </div>
-            <div className="flexColCenter stat ">
+            <div className="flexColCenter  stat ">
               <span>
                 <CountUp start={5} end={15} duration={4} />
                 <span>+</span>

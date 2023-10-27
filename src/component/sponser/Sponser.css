@@ -1,0 +1,7 @@
+.sponser-content>img{
+    width: 15rem;
+    transition: all 300ms ease-in;
+}
+.sponser-content>img:hover{
+    transform: scale(1.2);
+}
