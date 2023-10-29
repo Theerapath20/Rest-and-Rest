@@ -17,10 +17,10 @@ function Header_content() {
 
           <div className=" flexColStart h-description">
             <span>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            We've gathered together 5-star quality seaside retreats here to give you 
             </span>
             <span>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            the answers you need to recharge and be ready to take on upcoming obstacles.
             </span>
           </div>
           <div className=" flexCenter search-bar">

@@ -1,9 +1,10 @@
 
 import Header_content from "./component/Header-content/Header_content";
 import Header from "./component/Header/Header";
-
 import "./App.css"; 
 import Sponser from "./component/sponser/sponser";
+import Residencies from "./component/Residencies/Residencies";
+
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Header_content />
       </div>
       <Sponser />
+      <Residencies />
     </div>
   );
 }

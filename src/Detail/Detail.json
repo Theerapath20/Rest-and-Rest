@@ -1,0 +1,38 @@
+[
+     {
+      "name": "Royal Cliff Beach Terrace Pattaya",
+      "price": "11,799 ",
+      "detail": "353 Phra Tamnak Road, Phra Tamnak Hill , Pattaya, เขาพระตำหนัก, พัทยา, ไทย, 20150",
+      "image": "./1.png"
+    },
+    {
+      "name": "Katathani Phuket Beach Resort",
+      "price": "27,646",
+      "detail": "14 Kata Noi Road, Muang, Kata, Phuket, Thailand, 83100",
+      "image":  "./2.png "
+    },
+    {
+      "name": "Hilton Hua Hin Resort & Spa",
+      "price": "13,263",
+      "detail": "33 Naresdamri Road, Hua Hin Beachfront, Hua Hin / Cha-am, Thailand, 77110",
+      "image": "./3.png"
+    },
+    {
+      "name": "S. Sriracha Hotel and Residence",
+      "price": "8,500",
+      "detail": "Sukhumvit Soi 2, Sri Racha, Chonburi, Thailand, 20110",
+      "image": "./4.png"
+    },
+    {
+      "name": "Silavadee Pool Spa Resort",
+      "price": "30,000",
+      "detail": "208/66 Moo 4, Maret,, Lamai, Koh Samui, Thailand, 84310",
+      "image": "./5.png"
+    },
+    {
+      "name": "KC Grande Resort & Spa ",
+      "price": "8,250",
+      "detail": "1/1 Moo 4 , White Sand Beach, Koh Chang, Thailand, 23170",
+      "image": "./6.png"
+    }
+  ]

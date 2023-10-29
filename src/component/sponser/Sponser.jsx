@@ -6,6 +6,11 @@ export default function Sponser() {
     <section className='sponser-wrap'>
         <div className=" innerWidth paddings flexCenter sponser-content">
             <img src="\public\name.png" alt="sponser-name" />
+            <img src="\public\name.png" alt="sponser-name" />
+            <img src="\public\name.png" alt="sponser-name" />
+            <img src="\public\name.png" alt="sponser-name" />
+            <img src="\public\name.png" alt="sponser-name" />
+            
         </div>
     </section>
   )
