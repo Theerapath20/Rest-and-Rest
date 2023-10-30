@@ -55,6 +55,8 @@
     padding: 0.2rem 0.8rem;
     border-radius: 5px;
     cursor: pointer;
+    border: 0.5px solid black;
+    margin-top: 1rem;
 }
 .residence-button>button:hover{
     scroll-behavior: 1.025;

@@ -10,7 +10,7 @@ export const Residencies = () => {
         <div className="paddings innerWidth residencies-container">
             <div className="flexColStart residencies-head">
                 <span className='orangeText'>Best choices</span>
-                <span className='primaryText'>Popular Residencies</span>
+                <span className='primaryText'>Popular  Resort Hotel</span>
             </div>
 
             <Swiper {...slidesSetting}>

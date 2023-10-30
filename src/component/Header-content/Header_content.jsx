@@ -17,10 +17,10 @@ function Header_content() {
 
           <div className=" flexColStart h-description">
             <span>
-            We've gathered together 5-star quality seaside retreats here to give you 
+            We've gathered together 5-star quality seaside resort  hotel here to give you 
             </span>
             <span>
-            the answers you need to recharge and be ready to take on upcoming obstacles.
+            the answers you need to recharge and be ready to take on upcoming obstacles 
             </span>
           </div>
           <div className=" flexCenter search-bar">

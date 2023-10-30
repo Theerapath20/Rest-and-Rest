@@ -4,6 +4,7 @@ import Header from "./component/Header/Header";
 import "./App.css"; 
 import Sponser from "./component/sponser/sponser";
 import Residencies from "./component/Residencies/Residencies";
+import Value from "./component/value/value";
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       </div>
       <Sponser />
       <Residencies />
+      <Value />
     </div>
   );
 }
