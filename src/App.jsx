@@ -5,6 +5,7 @@ import "./App.css";
 import Sponser from "./component/sponser/sponser";
 import Residencies from "./component/Residencies/Residencies";
 import Value from "./component/value/value";
+import Contact from "./component/Contact/Contact";
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
       <Sponser />
       <Residencies />
       <Value />
+      <Contact />
     </div>
   );
 }

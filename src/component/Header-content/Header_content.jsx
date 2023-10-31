@@ -58,7 +58,7 @@ function Header_content() {
         {/* right side */}
         <div className="flexCenter h-content-right">
           <div className="img-content">
-            <img src="\public\sea-right.jpg" alt="sea" />
+            <img src="./sea-right.jpg" alt="sea" />
           </div>
         </div>
       </div>
