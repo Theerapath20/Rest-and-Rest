@@ -6,6 +6,7 @@ import Sponser from "./component/sponser/sponser";
 import Residencies from "./component/Residencies/Residencies";
 import Value from "./component/value/value";
 import Contact from "./component/Contact/Contact";
+import Footer from "./component/Footer/Footer";
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
       <Residencies />
       <Value />
       <Contact />
+      <Footer />
     </div>
   );
 }

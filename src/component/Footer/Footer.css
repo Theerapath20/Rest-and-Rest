@@ -1,0 +1,13 @@
+.footer-container{
+    background: var(--black);
+    justify-content: space-between !important;
+}
+
+.footer-left{
+    gap: 1rem;
+}
+
+.footer-menu{
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+}
