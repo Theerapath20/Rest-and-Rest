@@ -9,7 +9,10 @@
 
 .contact-right {
   width: 100%;
+  
 }
+
+
 .contact-left {
   gap: 0.5rem;
 }
@@ -59,4 +62,24 @@
   scale: 0.8;
   box-shadow: var(--shadow);
   color: white;
+}
+
+@media (max-width:1024px){
+  .contact-container{
+    flex-direction: column;
+  }
+  .contact-right{
+    display: flex;
+    justify-content: center;
+  }
+  .contactsModes{
+    width: 100%;
+  }
+  .row{
+    flex-direction: column;
+    width: 100%;
+  }
+  .mode{
+    width: 100%;
+  }
 }

@@ -11,3 +11,13 @@
     gap: 1.5rem;
     margin-top: 1.5rem;
 }
+
+@media (max-width:768px){
+   .footer-container{
+    justify-content: center;
+   }  
+   .footer-container>div{
+    align-items: center !important;
+    text-align: center;
+   } 
+}

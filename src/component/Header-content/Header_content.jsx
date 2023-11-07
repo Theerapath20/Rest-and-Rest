@@ -2,7 +2,7 @@ import React from "react";
 import "./Header_content.css";
 import { HiLocationMarker } from "react-icons/hi";
 import CountUp from "react-countUp";
-
+import {motion} from 'framer-motion'
 function Header_content() {
   return (
     <section className=" h-content-wrap">
@@ -10,9 +10,16 @@ function Header_content() {
         {/* left side */}
         <div className="flexColStart h-content-left">
           <div className="h-title">
-            <h1>
+            <motion.h1
+            initial={{y:"2rem",opacity:0 }}
+            animate={{y:0,opacity:1}}
+            translation={{
+              duration: 2,
+              type : "spring" 
+            }}
+            >
               Invigorate <br /> your life with rest
-            </h1>
+            </motion.h1>
           </div>
 
           <div className=" flexColStart h-description">
@@ -57,9 +64,16 @@ function Header_content() {
         
         {/* right side */}
         <div className="flexCenter h-content-right">
-          <div className="img-content">
+          <motion.div
+          initial={{x:"7rem",opacity: 0}} 
+          animate={{x: 0,opacity: 1}} 
+          translation={{
+            duration: 2,
+            type : "spring" 
+          }}
+          className="img-content">
             <img src="./sea-right.jpg" alt="sea" />
-          </div>
+          </motion.div>
         </div>
       </div>
     </section>

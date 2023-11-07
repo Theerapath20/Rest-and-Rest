@@ -66,3 +66,12 @@
     box-shadow: 0px 72px 49px -51px rgba(136, 160, 255, 0.21);
     color: white;
 }
+ @media (max-width:640px) {
+    .residencies-head {
+        align-items: center !important;
+    }
+    .residencies-card>img {
+         max-width: 100%;
+    }
+    
+}

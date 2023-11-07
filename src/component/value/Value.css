@@ -1,5 +1,5 @@
 .value-container .img-content{
-    border: 8px solid rgb(232, 232, 232 / 93%);
+    border: 8px solid rgb(232, 232, 232 ,93%) ;
 }
 
 .value-container>div{
@@ -43,4 +43,11 @@
 
 .icon svg{
     fill: var(--blue);
+}
+
+@media (max-width:1024px){
+    .value-container{
+        flex-direction: column;
+    }
+   
 }
